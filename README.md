@@ -62,3 +62,11 @@ O backend é construído com NestJS e o frontend com ReactJS, ambos em TypeScrip
 cd backend
 npm install
 npm run start
+
+2. Frontend
+
+```bash
+cd frontend
+npm install
+npm run start
+
